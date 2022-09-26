@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Agify
+This program uses API and react. With the help of an API, we could gess the age based on a name.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
